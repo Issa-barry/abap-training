@@ -22,8 +22,7 @@ write: 'Nom:',nom,
         /'Temps:',temps.
         
         
-**STRUCTURE DE DONNEES:
-
+#  STRUCTURES DE  DONNEES
 DATA: BEGIN OF adresse,
           street(255) type c,
           city(100) type c,
