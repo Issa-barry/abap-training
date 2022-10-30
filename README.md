@@ -1,6 +1,6 @@
 ## abap-training
 
-			#		VARIABLES :
+# VARIABLES 
 		
 
 data: nom type string value 'barry',
